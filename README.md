@@ -2,7 +2,7 @@
 
 # My portfolio
 
-This portfolio is a compilation of my college and personal projects. 
+This portfolio is a compilation of my projects that were created as part of my learning data science and exploring various AWS services. 
 
 ## AWS
 
