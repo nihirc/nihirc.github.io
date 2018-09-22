@@ -1,12 +1,14 @@
-# [nihirc.github.io](https://nihirc.github.io)
+# Minimal Theme
 
-# My portfolio
+[Demo the Theme](http://orderedlist.github.com/minimal/)
 
-This portfolio is a compilation of my projects that were created as part of my learning data science and exploring various AWS services. 
+This is the raw HTML and styles that are used for the *minimal* theme on [GitHub Pages](http://pages.github.com/).
 
-## AWS
+Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
 
-### Counting Dynamodb partitions
-[Github](https://github.com/nihirc/AWSDynamoDBPartitionCounter-Python)
+# License
 
-Currently there is no API call that provides the number of DynamoDB partitions. This is a sample code that makes use of Dynamodb streams to get the number of partitions for a table. 
+This work is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+
+
+
